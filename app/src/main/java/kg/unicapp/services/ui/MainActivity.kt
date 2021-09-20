@@ -1,4 +1,4 @@
-package kg.unicapp.services
+package kg.unicapp.services.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -6,5 +6,5 @@ data class Registration(
     val description: String?,
     val contact: Int?,
     val location: String?
-
-)
+){
+}
